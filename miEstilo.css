@@ -1,0 +1,27 @@
+table, td, th{
+   border: 1px solid blue;
+}
+td,th {
+    padding: 5px;
+}
+
+table {
+     background-color: beige;
+     
+}
+
+div{
+    background-color: aquamarine;
+    width: 250px;
+    height: 200px;
+    padding: 20px;
+}
+
+#Yoli {
+    background-color: brown;
+    }
+
+#jiret {
+    color: blueviolet;
+    background-color: black;
+}
