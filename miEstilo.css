@@ -1,19 +1,23 @@
 table, td, th{
    border: 1px solid blue;
+
 }
 td,th {
     padding: 5px;
+    border-radius: 0px;
+    text-align: center;
 }
 
 table {
      background-color: beige;
+     border-spacing: 0px;
      
 }
 
 div{
     background-color: aquamarine;
-    width: 250px;
-    height: 200px;
+    width: 340px;
+    height: 350px;
     padding: 20px;
 }
 
@@ -21,7 +25,7 @@ div{
     background-color: brown;
     }
 
-#jiret {
+.jiret {
     color: blueviolet;
     background-color: black;
 }
